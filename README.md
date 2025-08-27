@@ -1,16 +1,35 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Jakob201/Jakob201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+I’m Cie, a passionate developer who loves building, learning, and exploring new technologies.
+I enjoy writing clean and efficient code, solving challenging problems, and turning ideas into reality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m working on
+
+Sharpening my skills in Python and exploring advanced libraries
+
+Building projects to strengthen my knowledge in software development
+
+Continuously improving my understanding of computer science fundamentals
+
+## 🌱 What I’m currently learning
+
+Modern development practices and frameworks
+
+Best practices for writing maintainable and scalable code
+
+Diving deeper into algorithms, data structures, and system design
+
+## 💡 Interests
+
+Open-source contributions
+
+Problem-solving & automation
+
+Exploring the intersection of technology and creativity
+
+## 📫 How to reach me
+
+Feel free to connect with me here on GitHub or via Discord: 
+> @cie03
