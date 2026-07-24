@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-I’m Cie, a passionate developer who loves building, learning, and exploring new technologies.
+I’m Jakob, a passionate developer who loves building, learning, and exploring new technologies.
 I enjoy writing clean and efficient code, solving challenging problems, and turning ideas into reality.
 
 ## 🚀 What I’m working on
